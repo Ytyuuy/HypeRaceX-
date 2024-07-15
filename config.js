@@ -48,7 +48,7 @@ module.exports = {
   //_________________________________________________________________________________________________________________________________
   STICKER_DATA: "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝚂𝚞𝚛𝚎𝚜𝚑☘️",
   //_________________________________________________________________________________________________________________________________
-  WELCOME_MSG: process.env.WELCOME_MSG || "👋 Hello *@user* Welcome To Our Group *@gname*\n*Total Members:* @count\n*Group Description:*\n@gdesc {pp}",
+  WELCOME_MSG: process.env.WELCOME_MSG || "👋 Hello *@user* Welcome To HypeRaceX Unity Group *@gname*\n*Total Members:* @count\n*Group Description:*\n@gdesc {pp}",
   //_________________________________________________________________________________________________________________________________
   GOODBYE_MSG: process.env.GOODBYE_MSG || "👋 GoodBye *@user* From *@gname*\n*Total Members:* @count {pp}",
   //_________________________________________________________________________________________________________________________________
